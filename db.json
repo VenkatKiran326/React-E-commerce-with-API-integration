@@ -1,0 +1,84 @@
+{
+  "winterHolidays": [
+    {
+      "id": 1,
+      "category": "Stockings",
+      "title": "Ares Rog.",
+      "description": "Many desktop publishing packages and web.",
+      "image": "https://via.placeholder.com/300x200?text=Stockings",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 2,
+      "category": "Decorations",
+      "title": "Bins Last.",
+      "description": "Page editors now use Lorem Ipsum as their default.",
+      "image": "https://via.placeholder.com/300x200?text=Decorations",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 3,
+      "category": "Accessories",
+      "title": "Repas Dui.",
+      "description": "There are many variations of passages of Lorem Ipsum.",
+      "image": "https://via.placeholder.com/300x200?text=Accessories",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 4,
+      "category": "Toys",
+      "title": "Tie Sanas",
+      "description": "There are many variations of Lorem Ipsum passages.",
+      "image": "https://via.placeholder.com/300x200?text=Toys",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 5,
+      "category": "Lights",
+      "title": "Glow Fest",
+      "description": "Bright decorative lights for winter celebrations.",
+      "image": "https://via.placeholder.com/300x200?text=Lights",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 6,
+      "category": "Gifts",
+      "title": "Joy Box",
+      "description": "Perfect gift boxes for friends and family.",
+      "image": "https://via.placeholder.com/300x200?text=Gifts",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 7,
+      "category": "Candles",
+      "title": "Warm Flame",
+      "description": "Scented candles to light up your holidays.",
+      "image": "https://via.placeholder.com/300x200?text=Candles",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 8,
+      "category": "Trees",
+      "title": "Green Pine",
+      "description": "Artificial Christmas trees with premium quality.",
+      "image": "https://via.placeholder.com/300x200?text=Trees",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 9,
+      "category": "Wreaths",
+      "title": "Circle Joy",
+      "description": "Beautiful wreaths for doors and walls.",
+      "image": "https://via.placeholder.com/300x200?text=Wreaths",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": 10,
+      "category": "Ornaments",
+      "title": "Sparkle Set",
+      "description": "Colorful ornaments to decorate your tree.",
+      "image": "https://via.placeholder.com/300x200?text=Ornaments",
+      "bgColor": "#d9ecfa"
+    }
+  ]
+}

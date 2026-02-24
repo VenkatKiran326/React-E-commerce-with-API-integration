@@ -1,0 +1,1404 @@
+{
+  "winterHolidays": [
+    {
+      "id": "1",
+      "category": "Stockings",
+      "title": "Ares Rog.",
+      "description": "Many desktop publishing packages and web.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-1-.jpg",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": "2",
+      "category": "Decorations",
+      "title": "Bins Last.",
+      "description": "Page editors now use Lorem Ipsum as their default.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-2.jpg",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": "3",
+      "category": "Accessories",
+      "title": "Repas Dui.",
+      "description": "There are many variations of passages of Lorem Ipsum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-3.jpg",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": "4",
+      "category": "Toys",
+      "title": "Tie Sanas",
+      "description": "There are many variations of Lorem Ipsum passages.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-4.jpg",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": "5",
+      "category": "Lights",
+      "title": "Glow Fest",
+      "description": "Bright decorative lights for winter celebrations.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-2.jpg",
+      "bgColor": "#d9ecfa"
+    },
+    {
+      "id": "1",
+      "category": "Stockings",
+      "title": "Ares Rog.",
+      "description": "Many desktop publishing packages and web.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-baner-img-1-.jpg",
+      "bgColor": "#d9ecfa"
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": "1",
+      "title": "Star Toy",
+      "category": "Christmas",
+      "price": 149,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-1-418x490.jpg",
+      "description": "Colorful Christmas star toy decoration"
+    },
+    {
+      "id": "2",
+      "title": "Santa Stocking",
+      "category": "Christmas",
+      "price": 229,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-5-418x490.jpg",
+      "description": "Santa Claus Christmas stocking"
+    },
+    {
+      "id": "3",
+      "title": "Polar Bear Toy",
+      "category": "Christmas",
+      "price": 179,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-4-418x490.jpg",
+      "description": "Cute polar bear Christmas sack"
+    },
+    {
+      "id": "4",
+      "title": "Christmas Tree",
+      "category": "Christmas",
+      "price": 129,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-9-418x490.jpg",
+      "description": "Minimal red Christmas tree"
+    },
+    {
+      "id": "5",
+      "title": "Decoration Bauble",
+      "category": "Christmas",
+      "price": 279,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-6.jpg",
+      "description": "London theme Christmas bauble"
+    },
+    {
+      "id": "6",
+      "title": "Wooden House",
+      "category": "Christmas",
+      "price": 219,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-11-682x800.jpg",
+      "description": "Wooden Christmas house decoration"
+    },
+    {
+      "id": "7",
+      "title": "Glitter Sack",
+      "category": "Christmas",
+      "price": 259,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-12-418x490.jpg",
+      "description": "Merry Christmas glitter sack"
+    },
+    {
+      "id": "8",
+      "title": "Flower Motif Bauble",
+      "category": "Christmas",
+      "price": 199,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-3-418x490.jpg",
+      "description": "Flower design Christmas bauble"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "1",
+      "subtitle": "Condimentum fames egestas ad potenti",
+      "title": "Laculis malesuada sodales",
+      "title2": "Mi vestibulum iaculis consectetur",
+      "description": "Scelerisque ullamcorper facilisis nisl a suspendisse elementum musat rasd dignissim at condimentum artas quam ut in. Ars hac posuere luctus vehicula dapibus facilisis commodo curae parturient adipiscing natoque.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/timeline-santa-img-1.png",
+      "align": "right"
+    },
+    {
+      "id": "2",
+      "subtitle": "Condimentum fames egestas ad potenti",
+      "title": "Sed mollis lectus condiment",
+      "title2": "Facilisis dictumst laoreet adiping",
+      "description": "Scelerisque ullamcorper facilisis nisl a suspendisse elementum musat rasd dignissim at condimentum artas quam ut in. Ars hac posuere luctus vehicula dapibus facilisis commodo curae parturient adipiscing natoque.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/timeline-santa-img-2.png",
+      "align": "left"
+    },
+    {
+      "id": "3",
+      "subtitle": "Condimentum fames egestas ad potenti",
+      "title": "Nibh cras pulvinar",
+      "title2": "Fringilla habitasse velit",
+      "description": "Scelerisque ullamcorper facilisis nisl a suspendisse elementum musat rasd dignissim at condimentum artas quam ut in. Ars hac posuere luctus vehicula dapibus facilisis commodo curae parturient adipiscing natoque.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/timeline-santa-img-3.png",
+      "align": "right"
+    }
+  ],
+  "stories": [
+    {
+      "id": "1",
+      "title": "Reinterprets the classic bookshelf",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-1.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Inspiration"
+      ],
+      "author": "S. Rogers",
+      "description": "Aliquet parturient scele risque scele risque nibh pretium parturient suspendisse platea sapien torquent feugiat parturient hac amet.",
+      "likes": 1,
+      "comments": 0,
+      "slug": "reinterprets-the-classic-bookshelf"
+    },
+    {
+      "id": "2",
+      "title": "Minimalist design furniture 2024",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-2.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Furniture"
+      ],
+      "author": "S. Rogers",
+      "description": "A taciti cras scelerisque scelerisque gravida natoque nulla vestibulum turpis primis adipiscing faucibus scelerisque.",
+      "likes": 3,
+      "comments": 1,
+      "slug": "minimalist-design-furniture-2024"
+    },
+    {
+      "id": "3",
+      "title": "Green interior design inspiration",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-3.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Hand Made"
+      ],
+      "author": "S. Rogers",
+      "description": "Vivamus enim sagittis aptent hac mi dui a per aptent suspendisse cras odio bibendum augue rhoncus laoreet.",
+      "likes": 0,
+      "comments": 0,
+      "slug": "green-interior-design-inspiration"
+    },
+    {
+      "id": "4",
+      "title": "Collar brings back coffee brewing ritual",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-4.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Inspiration"
+      ],
+      "author": "S. Rogers",
+      "description": "Aliquet parturient scele risque scele risque nibh pretium parturient suspendisse platea sapien torquent feugiat parturient hac amet.",
+      "likes": 0,
+      "comments": 0,
+      "slug": "collar-brings-back-coffee-brewing-ritual"
+    },
+    {
+      "id": "5",
+      "title": "Minimalist design furniture 2024",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-2.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Furniture"
+      ],
+      "author": "S. Rogers",
+      "description": "A taciti cras scelerisque scelerisque gravida natoque nulla vestibulum turpis primis adipiscing faucibus scelerisque.",
+      "likes": 3,
+      "comments": 1,
+      "slug": "minimalist-design-furniture-2024"
+    },
+    {
+      "id": "3",
+      "title": "Green interior design inspiration",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/01/christmas-blog-img-3.jpg",
+      "date": {
+        "day": "23",
+        "month": "JUL"
+      },
+      "category": [
+        "Design Trends",
+        "Hand Made"
+      ],
+      "author": "S. Rogers",
+      "description": "Vivamus enim sagittis aptent hac mi dui a per aptent suspendisse cras odio bibendum augue rhoncus laoreet.",
+      "likes": 0,
+      "comments": 0,
+      "slug": "green-interior-design-inspiration"
+    }
+  ],
+  "productsDetails": [
+    {
+      "id": "1",
+      "name": "Star Toy",
+      "price": 149,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.5,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-1.jpg",
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "image2": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/product-img-5-682x800.jpg",
+      "image3": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/product-img-6-681x800.jpg",
+      "stock": 12,
+      "wishlist": false,
+      "compare": false
+    },
+    {
+      "id": "2",
+      "name": "Decoration Bauble",
+      "price": 279,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.7,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-5.jpg",
+      "details": {
+        "material": "65% Polyester, 23% Elastane",
+        "weight": "4.2oz / 184 cm",
+        "size": "Large"
+      },
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "sections": {
+        "maecenas_iaculis": "Nunc per mollis pot ent amet imperdiet blandit dis eu sociosqu accumsan dap ibus ultricies tristique montes a eros adipiscing justo.",
+        "feugiat_parturient": [
+          "65% Polyester, 23% Elastane",
+          "Auctor parturient praesent ipsum",
+          "Mincetos pri 187cm/31 tall",
+          "Diam parturient dictumst nibh mu"
+        ],
+        "aliquet": "Quam suspendisse adipiscing quis pretium nostra cubilia tristique nam non ac placerat nascetur a vel.",
+        "curabitur_velit": "Main: 76% Polyester, 24% Elastane."
+      },
+      "stock": 8
+    },
+    {
+      "id": "3",
+      "name": "Santa Stocking",
+      "price": 229,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.6,
+      "reviews": 0,
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-4.jpg",
+      "shippingInfo": [
+        {
+          "title": "Sagittis malesuada",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Litora parturient",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Nisi volutpat",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Tristique iaculis",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        }
+      ],
+      "stock": 15
+    },
+    {
+      "id": "4",
+      "name": "Wooden House",
+      "price": 219,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.8,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-9-418x490.jpg",
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "stock": 6
+    },
+    {
+      "id": "5",
+      "name": "Star Toy",
+      "price": 149,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.5,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-6.jpg",
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "stock": 12,
+      "wishlist": false,
+      "compare": false
+    },
+    {
+      "id": "6",
+      "name": "Decoration Bauble",
+      "price": 279,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.7,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-11.jpg",
+      "details": {
+        "material": "65% Polyester, 23% Elastane",
+        "weight": "4.2oz / 184 cm",
+        "size": "Large"
+      },
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "sections": {
+        "maecenas_iaculis": "Nunc per mollis pot ent amet imperdiet blandit dis eu sociosqu accumsan dap ibus ultricies tristique montes a eros adipiscing justo.",
+        "feugiat_parturient": [
+          "65% Polyester, 23% Elastane",
+          "Auctor parturient praesent ipsum",
+          "Mincetos pri 187cm/31 tall",
+          "Diam parturient dictumst nibh mu"
+        ],
+        "aliquet": "Quam suspendisse adipiscing quis pretium nostra cubilia tristique nam non ac placerat nascetur a vel.",
+        "curabitur_velit": "Main: 76% Polyester, 24% Elastane."
+      },
+      "stock": 8
+    },
+    {
+      "id": "7",
+      "name": "Wooden House",
+      "price": 219,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.6,
+      "reviews": 0,
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-12.jpg",
+      "shippingInfo": [
+        {
+          "title": "Sagittis malesuada",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Litora parturient",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Nisi volutpat",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        },
+        {
+          "title": "Tristique iaculis",
+          "text": "Ridiculus facilisi condimentum ridiculus tristique nostra litora parturient risus"
+        }
+      ],
+      "stock": 15
+    },
+    {
+      "id": "8",
+      "name": "Glitter Sack",
+      "price": 259,
+      "currency": "USD",
+      "category": "Christmas",
+      "rating": 4.8,
+      "reviews": 0,
+      "description": "Erat orci consectetur consectetur eleifend habitasse est non aenean accumsan risus adipiscing laoreet risus. Libero sed consectetur sit taciti montes suspendisse adipiscing a ligula adipiscing arcu rutrum in praesent nec suspendisse a nec condimentum eu elementum.",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/10/xmas-product-img-3.jpg",
+      "features": [
+        "Lorem ipsum dolor sit amet, conse.",
+        "Aliquam tincidunt mauris eu risus.",
+        "Vestibulum auctor dapibus neque.",
+        "Nunc dignissim risus id metus.",
+        "Cras ornare tristique elit.",
+        "Vivamus vestibulum nulla nec ante.",
+        "Praesent placerat risus quis eros.",
+        "Fusce pellentesque suscipit nibh."
+      ],
+      "stock": 6
+    }
+  ],
+  "shopproducts": [
+    {
+      "id": "1",
+      "name": "Smart watches wood edition",
+      "category": "Accessories",
+      "brand": "HAY",
+      "price": 599,
+      "oldPrice": 799,
+      "colors": [
+        "yellow",
+        "beige",
+        "black"
+      ],
+      "rating": 4,
+      "badge": "SALE",
+      "discount": 25,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-8.jpg",
+      "inStock": true
+    },
+    {
+      "id": "2",
+      "name": "Penatibus parturient orci morbi",
+      "category": "Toys",
+      "brand": "Alessi",
+      "price": 444,
+      "colors": [
+        "pink",
+        "blue",
+        "red"
+      ],
+      "rating": 0,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-18-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "3",
+      "name": "Wooden bow tie man",
+      "category": "Accessories",
+      "brand": "Flos",
+      "price": 359,
+      "colors": [
+        "pink",
+        "brown",
+        "lightblue"
+      ],
+      "rating": 5,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-1-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "4",
+      "name": "Nerd wooden chair",
+      "category": "Furniture",
+      "brand": "Muuto",
+      "price": 599,
+      "oldPrice": 799,
+      "colors": [
+        "black",
+        "blue",
+        "gray",
+        "yellow"
+      ],
+      "rating": 0,
+      "badge": "SALE",
+      "discount": 25,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-1-430x490.jpg",
+      "inStock": true
+    },
+    {
+      "id": "5",
+      "name": "Panton junior chair",
+      "category": "Furniture",
+      "brand": "HAY",
+      "price": 199,
+      "colors": [
+        "green",
+        "blue",
+        "black"
+      ],
+      "rating": 0,
+      "badge": "NEW",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-19-3-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "6",
+      "name": "Best clock parallels",
+      "category": "Clocks",
+      "brand": "Eva Solo",
+      "price": 555,
+      "priceRange": "555 - 780",
+      "colors": [
+        "black",
+        "green",
+        "yellow"
+      ],
+      "rating": 5,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-clock-1-2-430x490.jpg",
+      "inStock": true
+    },
+    {
+      "id": "7",
+      "name": "Green lounge chair",
+      "category": "Furniture",
+      "brand": "Magisso",
+      "price": 399,
+      "colors": [
+        "pink",
+        "blue",
+        "red"
+      ],
+      "rating": 4,
+      "badge": "SOLD OUT",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-3-2-430x490.jpg",
+      "inStock": false
+    },
+    {
+      "id": "8",
+      "name": "Minimal glass bottle",
+      "category": "Accessories",
+      "brand": "Joseph Joseph",
+      "price": 89,
+      "colors": [
+        "transparent"
+      ],
+      "rating": 3,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-furniture-11-430x490.jpg",
+      "inStock": true
+    },
+    {
+      "id": "9",
+      "name": "Wooden naive chair",
+      "category": "Furniture",
+      "brand": "Muuto",
+      "price": 119,
+      "colors": [
+        "beige",
+        "gray",
+        "green"
+      ],
+      "rating": 0,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/03/light8_2-opt-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "10",
+      "name": "Wine bottle lantern",
+      "category": "Accessories",
+      "brand": "Eva Solo",
+      "price": 399,
+      "colors": [
+        "red",
+        "wood",
+        "blue"
+      ],
+      "rating": 4,
+      "badge": "SOLD OUT",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-furniture-11-430x490.jpg",
+      "inStock": false
+    },
+    {
+      "id": "11",
+      "name": "Henectus tincidunt",
+      "category": "Lighting",
+      "brand": "Flos",
+      "price": 429,
+      "colors": [
+        "brown",
+        "gray",
+        "green",
+        "orange"
+      ],
+      "rating": 0,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2017/03/light8_2-opt-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "12",
+      "name": "Decoration wooden present",
+      "category": "Accessories",
+      "brand": "Alessi",
+      "price": 89,
+      "colors": [
+        "wood",
+        "green"
+      ],
+      "rating": 0,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-10-430x491.jpg",
+      "inStock": true
+    },
+    {
+      "id": "13",
+      "name": "Eames lounge chair",
+      "category": "Furniture",
+      "brand": "Herman Miller",
+      "price": 399,
+      "oldPrice": 799,
+      "colors": [
+        "black",
+        "gray",
+        "red"
+      ],
+      "rating": 0,
+      "badge": "HOT",
+      "discount": 50,
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-8-430x490.jpg",
+      "inStock": true
+    },
+    {
+      "id": "14",
+      "name": "Augue adipiscing euismod",
+      "category": "Toys",
+      "brand": "Kay Bojesen",
+      "price": 199,
+      "colors": [
+        "wood",
+        "green",
+        "orange"
+      ],
+      "rating": 0,
+      "badge": "",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-15-430x490.jpg",
+      "inStock": true
+    }
+  ],
+  "shopprotsdetails": [
+    {
+      "id": "1",
+      "name": "Smart Watches Wood Edition",
+      "price": 599,
+      "oldPrice": 799,
+      "currency": "USD",
+      "brand": "HAY",
+      "rating": 4,
+      "badge": "SALE",
+      "discount": 25,
+      "categories": [
+        "Accessories"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Yellow",
+          "hex": "#f5c400"
+        },
+        {
+          "name": "Beige",
+          "hex": "#e8d7b5"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-8.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 35
+      }
+    },
+    {
+      "id": "2",
+      "name": "Penatibus Parturient Orci Morbi",
+      "price": 444,
+      "currency": "USD",
+      "brand": "Alessi",
+      "rating": 0,
+      "badge": "",
+      "categories": [
+        "Toys"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#ff69b4"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Red",
+          "hex": "#f44336"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-18-430x491.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 20
+      }
+    },
+    {
+      "id": "3",
+      "name": "Wooden Bow Tie Man",
+      "price": 359,
+      "currency": "USD",
+      "brand": "Flos",
+      "rating": 5,
+      "badge": "",
+      "categories": [
+        "Accessories"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#ff69b4"
+        },
+        {
+          "name": "Brown",
+          "hex": "#795548"
+        },
+        {
+          "name": "Light Blue",
+          "hex": "#81d4fa"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-accessories-1-430x491.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 18
+      }
+    },
+    {
+      "id": "4",
+      "name": "Nerd Wooden Chair",
+      "price": 599,
+      "oldPrice": 799,
+      "currency": "USD",
+      "brand": "Muuto",
+      "rating": 0,
+      "badge": "SALE",
+      "discount": 25,
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Gray",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#fbc02d"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-1-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 12
+      }
+    },
+    {
+      "id": "5",
+      "name": "Panton Junior Chair",
+      "price": 199,
+      "currency": "USD",
+      "brand": "HAY",
+      "rating": 0,
+      "badge": "NEW",
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "#4caf50"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-19-3-430x491.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 25
+      }
+    },
+    {
+      "id": "6",
+      "name": "Best Clock Parallels",
+      "price": 555,
+      "priceRange": "555 - 780",
+      "currency": "USD",
+      "brand": "Eva Solo",
+      "rating": 5,
+      "badge": "",
+      "categories": [
+        "Clocks"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Green",
+          "hex": "#4caf50"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#fbc02d"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-clock-1-2-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 9
+      }
+    },
+    {
+      "id": "7",
+      "name": "Green Lounge Chair",
+      "price": 399,
+      "currency": "USD",
+      "brand": "Magisso",
+      "rating": 4,
+      "badge": "SOLD OUT",
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#ff69b4"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Red",
+          "hex": "#f44336"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-3-2-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": false,
+        "quantity": 0
+      }
+    },
+    {
+      "id": "8",
+      "name": "Minimal Glass Bottle",
+      "price": 89,
+      "currency": "USD",
+      "brand": "Joseph Joseph",
+      "rating": 3,
+      "badge": "",
+      "categories": [
+        "Accessories"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Transparent",
+          "hex": "#ffffff00"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-furniture-11-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 40
+      }
+    },
+    {
+      "id": "9",
+      "name": "Best Clock Parallels",
+      "price": 555,
+      "priceRange": "555 - 780",
+      "currency": "USD",
+      "brand": "Eva Solo",
+      "rating": 5,
+      "badge": "",
+      "categories": [
+        "Clocks"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Green",
+          "hex": "#4caf50"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#fbc02d"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-clock-1-2-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 9
+      }
+    },
+    {
+      "id": "10",
+      "name": "Green Lounge Chair",
+      "price": 399,
+      "currency": "USD",
+      "brand": "Magisso",
+      "rating": 4,
+      "badge": "SOLD OUT",
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Pink",
+          "hex": "#ff69b4"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Red",
+          "hex": "#f44336"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-3-2-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": false,
+        "quantity": 0
+      }
+    },
+    {
+      "id": "11",
+      "name": "Minimal Glass Bottle",
+      "price": 89,
+      "currency": "USD",
+      "brand": "Joseph Joseph",
+      "rating": 3,
+      "badge": "",
+      "categories": [
+        "Accessories"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Transparent",
+          "hex": "#ffffff00"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/08/product-furniture-11-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 40
+      }
+    },
+    {
+      "id": "13",
+      "name": "Nerd Wooden Chair",
+      "price": 599,
+      "oldPrice": 799,
+      "currency": "USD",
+      "brand": "Muuto",
+      "rating": 0,
+      "badge": "SALE",
+      "discount": 25,
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Gray",
+          "hex": "#9e9e9e"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#fbc02d"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-1-430x490.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 12
+      }
+    },
+    {
+      "id": "14",
+      "name": "Panton Junior Chair",
+      "price": 199,
+      "currency": "USD",
+      "brand": "HAY",
+      "rating": 0,
+      "badge": "NEW",
+      "categories": [
+        "Furniture"
+      ],
+      "description": "Nostrum harum quos beatae veniam velit!consectetur Lorem ipsum dolor sit amet  adipisicing elit. Quis nulla autem mollitia, sint ratione officia numquam!  Accusamus ipsa excepturi voluptate? Ullam sit iste in.",
+      "colors": [
+        {
+          "name": "Green",
+          "hex": "#4caf50"
+        },
+        {
+          "name": "Blue",
+          "hex": "#2196f3"
+        },
+        {
+          "name": "Black",
+          "hex": "#000000"
+        }
+      ],
+      "images": [
+        {
+          "id": "img1",
+          "url": "https://woodmart.xtemos.com/wp-content/uploads/2016/09/product-furniture-19-3-430x491.jpg",
+          "isPrimary": true
+        }
+      ],
+      "stock": {
+        "available": true,
+        "quantity": 25
+      }
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Seating collection inspiration by modern",
+      "category": [
+        "Design Trends",
+        "Furniture"
+      ],
+      "date": "23 JUL",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-9.jpg",
+      "excerpt": "Ac haca ullamcorper donec ante habi tasse donec imperdiet eturpis varius per a augue magna hac.",
+      "content": {
+        "intro": "Modern seating collections combine comfort, aesthetics, and functionality to create living spaces that feel both stylish and welcoming.",
+        "sections": [
+          {
+            "heading": "Modern Seating Philosophy",
+            "text": "Modern furniture focuses on clean lines, neutral colors, and ergonomic comfort. Seating plays a vital role in defining the mood of a room."
+          },
+          {
+            "heading": "Material Choices",
+            "text": "Leather, fabric blends, and sustainable materials are increasingly used to ensure durability while maintaining visual elegance."
+          }
+        ],
+        "conclusion": "Choosing the right seating transforms not just your living room, but your entire lifestyle experience."
+      }
+    },
+    {
+      "id": "2",
+      "title": "Minimalist design furniture 2024",
+      "category": [
+        "Design Trends",
+        "Furniture"
+      ],
+      "date": "25 DEC",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-1.jpg",
+      "excerpt": "A tacti cras scelerisque gravida natoque nulla vestibulum turpis primis adipiscing faucibus.",
+      "content": {
+        "intro": "Minimalist furniture in 2024 focuses on simplicity, sustainability, and multifunctional design.",
+        "sections": [
+          {
+            "heading": "Less is More",
+            "text": "Minimalism removes unnecessary elements, allowing furniture to serve both practical and aesthetic purposes."
+          },
+          {
+            "heading": "Color & Texture",
+            "text": "Neutral palettes paired with subtle textures create calm and balanced interiors."
+          }
+        ],
+        "conclusion": "Minimalist furniture helps create peaceful living environments that enhance focus and well-being."
+      }
+    },
+    {
+      "id": "3",
+      "title": "Green interior design inspiration",
+      "category": [
+        "Design Trends",
+        "Hand Made"
+      ],
+      "date": "02 NOV",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-7.jpg",
+      "excerpt": "Vivamus enim sagittis aptent hac mi dui a per aptent suspendisse cras odio.",
+      "content": {
+        "intro": "Green interior design brings nature indoors, promoting relaxation and sustainability.",
+        "sections": [
+          {
+            "heading": "Natural Elements",
+            "text": "Plants, recycled wood, and eco-friendly fabrics help create a healthier indoor environment."
+          },
+          {
+            "heading": "Sustainable Living",
+            "text": "Eco-conscious interiors reduce environmental impact while improving quality of life."
+          }
+        ],
+        "conclusion": "Green interiors are not just a trend—they are a lifestyle choice for the future."
+      }
+    },
+    {
+      "id": "4",
+      "title": "Creative workspace interior ideas",
+      "category": [
+        "Interior",
+        "Workspace"
+      ],
+      "date": "18 AUG",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-3.jpg",
+      "excerpt": "Creative workspaces enhance productivity through smart layouts and inspiring decor.",
+      "content": {
+        "intro": "A well-designed workspace can significantly improve creativity and focus.",
+        "sections": [
+          {
+            "heading": "Ergonomic Design",
+            "text": "Comfortable seating and adjustable desks reduce fatigue during long working hours."
+          },
+          {
+            "heading": "Inspiring Colors",
+            "text": "Soft tones and accent colors stimulate creativity without overwhelming the senses."
+          }
+        ],
+        "conclusion": "Smart workspace design supports both productivity and mental wellness."
+      }
+    },
+    {
+      "id": "5",
+      "title": "Luxury living room décor ideas",
+      "category": [
+        "Luxury",
+        "Interior"
+      ],
+      "date": "05 SEP",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-13.jpg",
+      "excerpt": "Luxury living rooms blend elegance, comfort, and premium materials.",
+      "content": {
+        "intro": "Luxury interiors focus on refined aesthetics and premium craftsmanship.",
+        "sections": [
+          {
+            "heading": "Premium Materials",
+            "text": "Marble, velvet, and metallic finishes add sophistication to living spaces."
+          },
+          {
+            "heading": "Lighting Matters",
+            "text": "Layered lighting enhances mood and highlights architectural details."
+          }
+        ],
+        "conclusion": "Luxury living rooms create timeless spaces that reflect personal style."
+      }
+    },
+    {
+      "id": "6",
+      "title": "Handmade furniture design trends",
+      "category": [
+        "Hand Made",
+        "Furniture"
+      ],
+      "date": "12 OCT",
+      "author": "S. Rogers",
+      "image": "https://woodmart.xtemos.com/wp-content/uploads/2016/07/blog-grid-11.jpg",
+      "excerpt": "Handcrafted furniture brings authenticity and uniqueness to modern interiors.",
+      "content": {
+        "intro": "Handmade furniture celebrates craftsmanship and individuality.",
+        "sections": [
+          {
+            "heading": "Artisan Craft",
+            "text": "Each piece tells a story through skilled workmanship and natural materials."
+          },
+          {
+            "heading": "Unique Appeal",
+            "text": "Handcrafted furniture ensures no two pieces are exactly alike."
+          }
+        ],
+        "conclusion": "Choosing handmade furniture supports artisans and adds character to your home."
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": "721b",
+      "name": "Two",
+      "email": "two@gmail.com",
+      "password": "two@gmail.com",
+      "confirmPassword": "two@gmail.com"
+    }
+  ]
+}
