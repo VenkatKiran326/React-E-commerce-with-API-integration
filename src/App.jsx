@@ -12,6 +12,8 @@ import Productsgrid from "./Components/Productsgrid";
 // import Blog from "./Components/Blog";
 import Pages from "./Components/Pages";
 import Buy from "./Components/BuyDetails";
+import { ScrollSpy } from "bootstrap";
+import ScrollToTop from "./Components/ScrollToTop";
 
 // Lazy Loading
 const LazyBlog=React.lazy(()=>import('./Components/Blog'))
@@ -21,6 +23,7 @@ function App() {
   return (
     <>
       <BrowserRouter>
+      <ScrollToTop/>
         <Routes>
           <Route path="/" element={<LandingPage />} />
           <Route path="/signin" element={<Signin />} />
@@ -44,6 +47,7 @@ function App() {
 
 
         </Routes>
+        
       </BrowserRouter>
 
       {/* <Route path="/aura" element={<Auth />}>
